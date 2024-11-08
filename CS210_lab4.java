@@ -15,6 +15,7 @@ public class CS210_2 {
 		}
 		else {
 			System.out.println("please enter between 1 - 100 words");
+			//Hello there
 		}
 		String [] array = new String[n];
 		
